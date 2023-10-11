@@ -66,7 +66,7 @@ class _ListViewItem extends StatelessWidget {
         child: Column(
           children: [
             Container(
-              height: 120,
+              height: 400,
               decoration: BoxDecoration(
                 color: Colors.black12,
                 image: DecorationImage(
