@@ -73,7 +73,7 @@ class _ListViewItem extends StatelessWidget {
                   image: NetworkImage(
                     itemModel.imageURL,
                   ),
-                  fit: BoxFit.cover,
+                  fit: BoxFit.fitWidth,
                 ),
               ),
             ),
